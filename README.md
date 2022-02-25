@@ -1,4 +1,6 @@
-# html-and-css-practice
+# Tic-Tac-Toe Repository
+
+I originally created this game in the html-and-css-practice repo.  It has been moved to this repo for preservation.
 
 In this sandbox, I've created a tic-tac-toe game board using HTML, CSS and JavaScript.
 
